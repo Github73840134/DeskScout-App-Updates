@@ -1,7 +1,7 @@
 {
 	"latest":{
 		"win32":{
-			"official-alpha":"15"
+			"official-alpha":"16"
 		}
 	},
 	"upgradePath":{
@@ -13,7 +13,7 @@
 	},
 	"build":{
 		"win32":{
-			"15":{
+			"16":{
 				"name":"DeskScout App 0.5.0",
 				"size":8466154,
 				"info":"Bug fixes and improvements",
