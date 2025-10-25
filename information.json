@@ -1,7 +1,9 @@
 {
 	"latest":{
 		"win32":{
-			"official-alpha":"16"
+			"official-alpha":"16",
+			"official-beta":null,
+			"official-stable":null
 		}
 	},
 	"upgradePath":{
@@ -13,13 +15,7 @@
 	},
 	"build":{
 		"win32":{
-			"16":{
-				"name":"DeskScout App 0.5.0",
-				"size":186210770,
-				"info":"Bug fixes and improvements",
-				"path":"bin/win32/beta-15.zip",
-				"url":"https://raw.githubusercontent.com/Github73840134/DeskScout-App-Updates/refs/heads/main/bin/win32/beta-15.zip"
-			}
+			
 		}
 	}
 	
