@@ -30,10 +30,10 @@
 			},
 			"0019":{
 				"name":"DeskScout App 0.6.0 (Build 19) Alpha",
-				"size":1974506,
-				"info":"Bug fixes and changes to the update process",
+				"size":8489114,
+				"info":"Minor UI Changes",
 				"path":"bin/win32/alpha-19.zip",
-				"url":"https://raw.githubusercontent.com/Github73840134/DeskScout-App-Updates/refs/heads/main/bin/win32/alpha-18.zip"
+				"url":"https://raw.githubusercontent.com/Github73840134/DeskScout-App-Updates/refs/heads/main/bin/win32/alpha-19.zip"
 			}
 		}
 	}
