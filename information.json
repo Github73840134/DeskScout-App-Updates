@@ -1,7 +1,8 @@
 {
 	"latest":{
 		"win32":{
-			"official-alpha":"18"
+			"official-alpha":"19",
+			"official-beta":"20"
 		}
 	},
 	"upgradePath":{
@@ -13,18 +14,25 @@
 	},
 	"build":{
 		"win32":{
-			"17":{
+			"0017":{
 				"name":"DeskScout App 0.6.0 (Build 17) Alpha",
 				"size":9037101,
 				"info":"Fixed some minor UI bugs",
 				"path":"bin/win32/alpha-17.zip",
 				"url":"https://raw.githubusercontent.com/Github73840134/DeskScout-App-Updates/refs/heads/main/bin/win32/alpha-17.zip"
 			},
-			"18":{
+			"0018":{
 				"name":"DeskScout App 0.6.0 (Build 18) Alpha",
 				"size":1974506,
 				"info":"Bug fixes and changes to the update process",
 				"path":"bin/win32/alpha-18.zip",
+				"url":"https://raw.githubusercontent.com/Github73840134/DeskScout-App-Updates/refs/heads/main/bin/win32/alpha-18.zip"
+			},
+			"0019":{
+				"name":"DeskScout App 0.6.0 (Build 19) Alpha",
+				"size":1974506,
+				"info":"Bug fixes and changes to the update process",
+				"path":"bin/win32/alpha-19.zip",
 				"url":"https://raw.githubusercontent.com/Github73840134/DeskScout-App-Updates/refs/heads/main/bin/win32/alpha-18.zip"
 			}
 		}
