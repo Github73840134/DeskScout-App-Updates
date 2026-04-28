@@ -4,13 +4,18 @@
 			"official-alpha":"20"
 		}
 	},
-	"upgradePath":{
+	"upgradeLock":{
 		"win32":{
 			"official-alpha":{
-				"14":["15"]
+				"16":"17",
+				"17":"18",
+				"18":"19",
+				"19":"20",
+				"20":"20"
 			}
 		}
 	},
+	"deprecated":["16","17","18"],
 	"build":{
 		"win32":{
 			"0017":{
@@ -34,12 +39,12 @@
 				"path":"bin/win32/alpha-19.zip",
 				"url":"https://raw.githubusercontent.com/Github73840134/DeskScout-App-Updates/refs/heads/main/bin/win32/alpha-19.zip"
 			},
-			"20":{
-				"name":"DeskScout App 0.7.0 (Build 20) Alpha",
+			"21":{
+				"name":"DeskScout App 0.7.0 (Build 21) Alpha",
 				"size":10468525,
-				"info":"New Features:\nSupport for librelink and Dexcom accounts outside the US\nExtensions! have a cgm thats not listed, you can now make your own glucose data providers\nIncluded tools to make extensions\nExtensions are available to install via command line only at the moment\nIf you updating, after the update completes you will need to Shutdown deskscout run upgradeSettings.py in the app folder and then reselect your CGM and sign in",
-				"path":"bin/win32/alpha-20.zip",
-				"url":"https://raw.githubusercontent.com/Github73840134/DeskScout-App-Updates/refs/heads/main/bin/win32/alpha-20.zip"
+				"info":"Must be on build 20 or later to update\nNew Features:\nSupport for librelink and Dexcom accounts outside the US\nExtensions! have a cgm thats not listed, you can now make your own glucose data providers\nIncluded tools to make extensions\nExtensions are available to install via command line only at the moment\nIf you updating, after the update completes you will need to Shutdown deskscout run upgradeSettings.py in the app folder and then reselect your CGM and sign in",
+				"path":"bin/win32/alpha-21.zip",
+				"url":"https://raw.githubusercontent.com/Github73840134/DeskScout-App-Updates/refs/heads/main/bin/win32/alpha-21.zip"
 			}
 		}
 	}
