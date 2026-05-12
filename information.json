@@ -11,7 +11,8 @@
 				"17":"18",
 				"18":"19",
 				"19":"20",
-				"20":"20"
+				"20":"21",
+				"21":"21"
 			}
 		}
 	},
@@ -38,6 +39,13 @@
 				"info":"Minor UI Changes",
 				"path":"bin/win32/alpha-19.zip",
 				"url":"https://raw.githubusercontent.com/Github73840134/DeskScout-App-Updates/refs/heads/main/bin/win32/alpha-19.zip"
+			},
+			"21":{
+				"name":"DeskScout App 0.7.0 (Build 21) Alpha",
+				"size":40871,
+				"info":"Setup bug fix",
+				"path":"bin/win32/alpha-21.zip",
+				"url":"https://raw.githubusercontent.com/Github73840134/DeskScout-App-Updates/refs/heads/main/bin/win32/alpha-21.zip"
 			}
 		}
 	}
