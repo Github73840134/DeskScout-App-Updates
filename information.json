@@ -20,7 +20,7 @@
 	},
 	"osSupport":{
 		"win32":{
-			"official-alpha":["12"]
+			"official-alpha":["11"]
 		}
 	},
 	"deprecated":{
