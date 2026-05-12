@@ -46,6 +46,13 @@
 				"info":"Setup bug fix",
 				"path":"bin/win32/alpha-21.zip",
 				"url":"https://raw.githubusercontent.com/Github73840134/DeskScout-App-Updates/refs/heads/main/bin/win32/alpha-21.zip"
+			},
+			"22":{
+				"name":"DeskScout App 0.7.0 (Build 22) Alpha",
+				"size":507663,
+				"info":"Minor UI changes",
+				"path":"bin/win32/alpha-22.zip",
+				"url":"https://raw.githubusercontent.com/Github73840134/DeskScout-App-Updates/refs/heads/main/bin/win32/alpha-22.zip"
 			}
 		}
 	}
