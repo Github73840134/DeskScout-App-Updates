@@ -25,7 +25,7 @@
 	},
 	"deprecated":{
 		"win32":{
-			"official-alpha":["16","17","18","19","22"]
+			"official-alpha":["16","17","18","19"]
 		}
 	},
 
