@@ -16,8 +16,10 @@
 				"22":"24",
 				"23":"24",
 				"24":"25",
-				"25":"26",
-				"26":"26"
+				"25":"27",
+				"26":"27",
+				"27":"28",
+				"28":"28"
 			}
 		}
 	},
@@ -99,6 +101,13 @@
 				"info":"Added Discord rich presence",
 				"path":"bin/win32/alpha-26.zip",
 				"url":"https://raw.githubusercontent.com/Github73840134/DeskScout-App-Updates/refs/heads/main/bin/win32/alpha-26.zip"
+			},
+			"27":{
+				"name":"DeskScout App 0.7.0 (Build 27) Alpha",
+				"size":3837,
+				"info":"Critical update fix",
+				"path":"bin/win32/alpha-27.zip",
+				"url":"https://raw.githubusercontent.com/Github73840134/DeskScout-App-Updates/refs/heads/main/bin/win32/alpha-27.zip"
 			}
 		}
 	}
