@@ -115,6 +115,13 @@
 				"info":"Added Discord rich presence",
 				"path":"bin/win32/alpha-28.zip",
 				"url":"https://raw.githubusercontent.com/Github73840134/DeskScout-App-Updates/refs/heads/main/bin/win32/alpha-28.zip"
+			},
+			"29":{
+				"name":"DeskScout App 0.7.0 (Build 29) Alpha",
+				"size":2823,
+				"info":"Fixed Discord rich presence",
+				"path":"bin/win32/alpha-29.zip",
+				"url":"https://raw.githubusercontent.com/Github73840134/DeskScout-App-Updates/refs/heads/main/bin/win32/alpha-28.zip"
 			}
 		}
 	}
