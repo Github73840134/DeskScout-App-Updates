@@ -127,6 +127,12 @@
 				"size":4936826,
 				"info":"Final alpha build before first beta",
 				"url":"https://raw.githubusercontent.com/Github73840134/DeskScout-App-Updates/refs/heads/main/bin/win32/alpha-31.zip"
+			},
+			"33":{
+				"name":"DeskScout App 1.1 (Build 33)",
+				"size":6714759,
+				"info":"Added Discord rich presence",
+				"url":"https://raw.githubusercontent.com/Github73840134/DeskScout-App-Updates/refs/heads/main/bin/win32/stable-33.zip"
 			}
 		}
 	}
