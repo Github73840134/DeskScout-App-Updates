@@ -129,6 +129,12 @@
 				"size":3143715,
 				"info":"Added Nightscout sync support",
 				"url":"https://raw.githubusercontent.com/Github73840134/DeskScout-App-Updates/refs/heads/main/bin/win32/alpha-30.zip"
+			},
+			"31":{
+				"name":"DeskScout App 0.7.0 (Build 31) Alpha",
+				"size":4936826,
+				"info":"Final alpha build before first beta",
+				"url":"https://raw.githubusercontent.com/Github73840134/DeskScout-App-Updates/refs/heads/main/bin/win32/alpha-31.zip"
 			}
 		}
 	}
