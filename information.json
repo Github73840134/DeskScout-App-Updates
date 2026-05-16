@@ -1,7 +1,9 @@
 {
 	"latest":{
 		"win32":{
-			"official-alpha":"20"
+			"official-alpha":"31",
+			"official-stable":"32"
+
 		}
 	},
 	"upgradeLock":{
@@ -21,18 +23,29 @@
 				"27":"28",
 				"28":"29",
 				"29":"30",
-				"30":"30"
+				"30":"31",
+				"31":"31"
+
+			},
+			"official-stable":{
+				"32":"32"
 			}
 		}
 	},
 	"osSupport":{
 		"win32":{
-			"official-alpha":["11"]
+			"official-alpha":["11"],
+			"official-beta":["11"],
+			"official-stable":["11"]
+
+
 		}
 	},
 	"deprecated":{
 		"win32":{
-			"official-alpha":["16","17","18","19"]
+			"official-alpha":["16","17","18","19"],
+			"official-stable":[]
+
 		}
 	},
 
