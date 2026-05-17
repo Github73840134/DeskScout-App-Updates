@@ -24,7 +24,9 @@
 				"28":"29",
 				"29":"30",
 				"30":"31",
-				"31":"31"
+				"31":"34",
+				"34":"34"
+
 
 			},
 			"official-stable":{
@@ -134,6 +136,12 @@
 				"size":6714759,
 				"info":"Added Discord rich presence",
 				"url":"https://raw.githubusercontent.com/Github73840134/DeskScout-App-Updates/refs/heads/main/bin/win32/stable-33.zip"
+			},
+			"34":{
+				"name":"DeskScout App 1.1.1 (Build 34) Alpha",
+				"size":1213744,
+				"info":"Added Discord rich presence and fixed import feature",
+				"url":"https://raw.githubusercontent.com/Github73840134/DeskScout-App-Updates/refs/heads/main/bin/win32/alpha-34.zip"
 			}
 		}
 	}
