@@ -32,8 +32,9 @@
 			},
 			"official-stable":{
 				"32":"33",
-				"33":"33",
-				"34":"34"
+				"33":"36",
+				"34":"34",
+				"36":"36"
 			}
 		}
 	},
@@ -150,6 +151,12 @@
 				"size":1214711,
 				"info":"Bug fixes",
 				"url":"https://raw.githubusercontent.com/Github73840134/DeskScout-App-Updates/refs/heads/main/bin/win32/alpha-35.zip"
+			},
+			"36":{
+				"name":"DeskScout App 1.1.1",
+				"size":1214709,
+				"info":"Bug fixes",
+				"url":"https://raw.githubusercontent.com/Github73840134/DeskScout-App-Updates/refs/heads/main/bin/win32/stable-36.zip"
 			}
 		}
 	}
