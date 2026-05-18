@@ -26,8 +26,10 @@
 				"30":"31",
 				"31":"35",
 				"34":"35",
-				"35":"37",
-				"37":"37"
+				"35":"38",
+				"37":"38",
+				"38":"39",
+				"39":"39"
 
 
 			},
@@ -164,6 +166,12 @@
 				"size":1219452,
 				"info":"Added auto start feature\nYou can now open the DeskScout window from the tray icon",
 				"url":"https://raw.githubusercontent.com/Github73840134/DeskScout-App-Updates/refs/heads/main/bin/win32/alpha-37.zip"
+			},
+			"38":{
+				"name":"DeskScout App 1.2 (Build 38) Alpha",
+				"size":1219452,
+				"info":"Update bug fix",
+				"url":"https://raw.githubusercontent.com/Github73840134/DeskScout-App-Updates/refs/heads/main/bin/win32/alpha-38.zip"
 			}
 		}
 	}
